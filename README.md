@@ -20,3 +20,5 @@ Once you have the app working, refactor to use a fetch request and `json-server`
 * Persist purchases, so that the user's total remains unchanged if I refresh the page.
 
 * Add a search box so that you can filter the products by name
+
+* Turn the "Already Purchased" button into a "Remove from Cart" button, which detracts from the total.
