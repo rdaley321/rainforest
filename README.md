@@ -10,9 +10,7 @@ First build the project by copying the json data into your code. Once you have t
 
 ![d-1 (dragged)](https://res.cloudinary.com/jmiles/image/upload/v1549022490/lab-assets/module-4/e.gif)
 
-### Without Styling
 
-![d-1 (two)](https://res.cloudinary.com/jmiles/image/upload/v1549023057/lab-assets/module-4/g.gif)
 
 ## Bonus
 
