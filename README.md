@@ -4,7 +4,8 @@
 
 Today we will build an online store front. Use the json file provided to render a list of products and a header that displays the user's total. When a user clicks "buy" on one of the cards, the total should update, increasing by the price of the item purchased. You should not be able to buy the same product twice.
 
-First build the project by copying the json data into your code. Once you have the app working, refactor to use a fetch request and `json-server`
+First build the project by copying the json data from this repo into your code. 
+Once you have the app working, refactor to use a fetch request and `json-server`
 
 ### Example
 
