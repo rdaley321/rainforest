@@ -26,7 +26,7 @@ class App extends Component {
     return (
       <div className="app">
         <Header total={this.state.total} />
-        <ItemList items={this.state.items} />
+        <ItemList items={this.state.items} updateTotal={this.updateTotal} />
       </div>
     );
   }

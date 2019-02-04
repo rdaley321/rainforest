@@ -5,7 +5,7 @@ const ItemList = (props) => {
   return (
     <div className="list">
       {props.items.map((item) => {
-        return <ItemCard {...item}/>
+        return <ItemCard {...item} updateTotal={props.updateTotal}/>
       })}
     </div>
   )
