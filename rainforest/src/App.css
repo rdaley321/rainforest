@@ -15,12 +15,26 @@
   border: 5px solid black;
   margin: 5px;
   padding: 5px;
+  position: relative;
+  margin-bottom: 20px;
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
 }
 
 .card img {
   max-width: 100px;
+  max-height: 100px;
 }
 
 .buy {
-  vertical-align: bottom;
+  bottom: 0;
+  position: absolute;
+  font-size: 1em;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  padding: 5px;
 }
